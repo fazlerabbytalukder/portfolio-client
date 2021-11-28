@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { NavLink, useHistory, useLocation } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
 import googleLogo from '../../../images/google logo.png';
-import logo from '../../../images/logo.png';
+import logo from '../../../images/logo2.png';
 
 const Register = () => {
     const [loginData, SetLoginData] = useState({})
