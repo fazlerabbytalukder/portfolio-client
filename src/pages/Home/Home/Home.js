@@ -3,6 +3,7 @@ import Navigation from '../../Shared/Navigation/Navigation';
 import Banner from '../Banner/Banner';
 import ContactMe from '../ContactMe/ContactMe';
 import Experiencs from '../Experiecs/Experiencs';
+import Footer from '../Footer/Footer';
 import Projects from '../Projects/Projects';
 
 const backgroundColor = {
@@ -20,6 +21,7 @@ const Home = () => {
             <Experiencs></Experiencs>
             <Projects></Projects>
             <ContactMe></ContactMe>
+            <Footer></Footer>
         </div>
     );
 };
