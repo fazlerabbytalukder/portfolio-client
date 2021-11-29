@@ -1,0 +1,33 @@
+.card-title{
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+.icon-color{
+    color: #5972B1;
+}
+
+.img-text{
+    position: relative;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+}
+
+.reg-button{
+    border: 2px solid green;
+    background-color: rgba(218, 255, 218, 0.5);
+    color: white;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
