@@ -13,8 +13,8 @@
         "img1": "https://i.ibb.co/WvJSmTz/ovilashi3.jpg",
         "img2": "https://i.ibb.co/hCGSpmv/ovilashi2.jpg",
         "img3": "https://i.ibb.co/QJ7DRjM/ovilashi1.jpg",
-        "serverSite": "https://github.com/fazlerabbytalukder/ovilashi-server-site",
-        "ClientSite": "https://github.com/fazlerabbytalukder/ovilashi-client-site",
+        "serverSite": "https://github.com/fazlerabbytalukder/ovilashi-server-site/",
+        "ClientSite": "https://github.com/fazlerabbytalukder/ovilashi-client-site/",
         "liveSite": "https://nish-website.web.app/",
         "description": "This is a product selling website whare you can only buy wooden ornaments. This is the very first website whare can only sell wooden products."
     },
@@ -32,8 +32,8 @@
         "img1": "https://i.ibb.co/bmjhs9H/td3-2.jpg",
         "img2": "https://i.ibb.co/kh3tvBS/td3-1.jpg",
         "img3": "https://i.ibb.co/2FzSqDc/td3-3.jpg",
-        "serverSite": "https://github.com/fazlerabbytalukder/tangail-district-park-server",
-        "ClientSite": "https://github.com/fazlerabbytalukder/tangail-district-park-client",
+        "serverSite": "https://github.com/fazlerabbytalukder/tangail-district-park-server/",
+        "ClientSite": "https://github.com/fazlerabbytalukder/tangail-district-park-client/",
         "liveSite": "https://tangail-district-park.web.app/",
         "description": "This is Tourist Place ticket booking system website where anyone can book any ride of this park and enjoy his/her family."
     },
@@ -51,8 +51,8 @@
         "img1": "https://i.ibb.co/M6rrbZH/transfer3.jpg",
         "img2": "https://i.ibb.co/6m7Qqy1/transfer1.jpg",
         "img3": "https://i.ibb.co/HpLLdr0/transfer2.jpg",
-        "serverSite": "https://github.com/fazlerabbytalukder/transfer-server",
-        "ClientSite": "https://github.com/fazlerabbytalukder/transfer-client",
+        "serverSite": "https://github.com/fazlerabbytalukder/transfer-server/",
+        "ClientSite": "https://github.com/fazlerabbytalukder/transfer-client/",
         "liveSite": "https://tourist-travel-bd.web.app/",
         "description": "This website mainly focused on date based booking system. Any user can book bus any date he wants.All types of busses you found here."
     }

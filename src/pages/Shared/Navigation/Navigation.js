@@ -42,6 +42,12 @@ const Navigation = () => {
                                 <Link style={{ ...buttonDesign4 }} to='/home'><Button color="inherit">Home</Button></Link>
                             </li>
                             <li className="nav-item">
+                                <Link style={{ ...buttonDesign4 }} to='/about'><Button color="inherit">About Me</Button></Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link style={{ ...buttonDesign4 }} to='/blogs'><Button color="inherit">Blogs</Button></Link>
+                            </li>
+                            <li className="nav-item">
                                 <Link style={{ ...buttonDesign4 }} to='/services'><Button color="inherit">Services</Button></Link>
                             </li>
                             {

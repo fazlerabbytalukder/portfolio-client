@@ -11,7 +11,7 @@ const Project = ({ project }) => {
     }
     return (
             <Grid item xs={4} sm={4} md={4}>
-            <Card sx={{  minWidth: 275, border: 0, boxShadow: 2, height: 350 }}>
+            <Card sx={{  minWidth: 275, border: 0, boxShadow: 2, height: 350, marginBottom:'40px' }}>
                 <CardMedia
                     component="img"
                     image={img1}

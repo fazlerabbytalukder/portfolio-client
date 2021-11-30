@@ -7,6 +7,8 @@ import Login from './pages/Login/Login/Login';
 import Register from './pages/Login/Register/Register';
 import PrivateRoute from './pages/Login/Login/PrivateRoute/PrivateRoute';
 import ProjectDetails from './pages/Home/ProjectDetails/ProjectDetails';
+import AboutMe from './pages/Home/AboutMe/AboutMe';
+import Blogs from './pages/Home/Blogs/Blogs';
 
 function App() {
   return (
@@ -19,6 +21,12 @@ function App() {
             </Route>
             <Route path='/home'>
               <Home></Home>
+            </Route>
+            <Route path='/about'>
+              <AboutMe></AboutMe>
+            </Route>
+            <Route path='/blogs'>
+              <Blogs></Blogs>
             </Route>
             <Route path='/projectsDetails/:projectId'>
               <ProjectDetails></ProjectDetails>
