@@ -9,6 +9,7 @@
         "aboutProject3": "Admin can Add, Delete & approve any products.",
         "aboutProject4": "Admin can add any product that will show in the all product section.",
         "aboutProject5": "An Admin can only access to add an admin.",
+        "fullImg": "https://i.ibb.co/H4Pd0cj/ovilashi-full-page.png",
         "img1": "https://i.ibb.co/WvJSmTz/ovilashi3.jpg",
         "img2": "https://i.ibb.co/hCGSpmv/ovilashi2.jpg",
         "img3": "https://i.ibb.co/QJ7DRjM/ovilashi1.jpg",
@@ -27,6 +28,7 @@
         "aboutProject3": "We can add new services and it will appear in the services section.",
         "aboutProject4": "You can delete any services as your perferencs.",
         "aboutProject5": "here you manage all services and delete those services",
+        "fullImg": "https://i.ibb.co/tzbd1fn/td-park-full-page.png",
         "img1": "https://i.ibb.co/bmjhs9H/td3-2.jpg",
         "img2": "https://i.ibb.co/kh3tvBS/td3-1.jpg",
         "img3": "https://i.ibb.co/2FzSqDc/td3-3.jpg",
@@ -45,6 +47,7 @@
         "aboutProject3": "Admin can manage all products.",
         "aboutProject4": "Admin can approved any bus booking",
         "aboutProject5": "User can see the booking status.",
+        "fullImg": "https://i.ibb.co/KLzvtHd/transfer-full-page.png",
         "img1": "https://i.ibb.co/M6rrbZH/transfer3.jpg",
         "img2": "https://i.ibb.co/6m7Qqy1/transfer1.jpg",
         "img3": "https://i.ibb.co/HpLLdr0/transfer2.jpg",
@@ -54,6 +57,10 @@
         "description": "This website mainly focused on date based booking system. Any user can book bus any date he wants.All types of busses you found here."
     }
 ]
+
+
+
+
 
 
 

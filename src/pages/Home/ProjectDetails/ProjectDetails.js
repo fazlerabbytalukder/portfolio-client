@@ -11,6 +11,7 @@ const ProjectDetails = () => {
             .then(res => res.json())
             .then(data => setProjects(data.find(single => single.id == projectId)));
     }, [projectId])
+    // console.log(projects.liveSite);
     return (
         <div>
             <Navigation></Navigation>
@@ -49,10 +50,12 @@ const ProjectDetails = () => {
                                 </div>
                                 <div className="card-footer py-3">
                                     <div className="d-flex justify-content-between align-items-center">
-                                        <button className="btn btn-primary px-5 py-2 fw-bold">Server Side Code</button>
-                                        <button className="btn btn-primary px-5 py-2 fw-bold">Client Side Code</button>
+                                        <button className="btn btn-primary px-4 py-2 fw-bold">Server Side Code</button>
+                                        <button className="btn btn-primary px-4 py-2 fw-bold">Client Side Code</button>
                                     </div>
+                                    <a href={projects.liveSite} target="_blank" rel="noreferrer">
                                     <button style={{backgroundColor:'#13CEF1', border:'none'}} className="btn btn-primary px-5 py-2 fw-bold mt-4">Live Site</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
