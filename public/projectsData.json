@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "ProjectName": "OVILASHI",
-        "ProjectTitleName": "Wooden Ornaments selling website",
-        "technology": "HTML5, CSS3, React.js, Material Ui, React Router, Node.js, Express.js, MongoDB, Firebase",
-        "aboutProject1": "Order any Products after login.",
-        "aboutProject2": "User Can book & remove any products whenever the user want.",
-        "aboutProject3": "Admin can Add, Delete & approve any products.",
-        "aboutProject4": "Admin can add any product that will show in the all product section.",
+        "ProjectName": "Talukder's Kitchen",
+        "ProjectTitleName": "Restaurant Website",
+        "technology": "HTML5, CSS3, React.js, Material Ui, Bootstrap 5, React Router, Node.js, Express.js, MongoDB, Firebase",
+        "aboutProject1": "Order any Food after login.",
+        "aboutProject2": "User Can Order, remove any order food and also Book a Table.",
+        "aboutProject3": "Admin can Delete & approve any Food.",
+        "aboutProject4": "Admin can add any Food that will show in the all Food section.",
         "aboutProject5": "An Admin can only access to add an admin.",
         "fullImg": "https://i.ibb.co/H4Pd0cj/ovilashi-full-page.png",
-        "img1": "https://i.ibb.co/WvJSmTz/ovilashi3.jpg",
-        "img2": "https://i.ibb.co/hCGSpmv/ovilashi2.jpg",
-        "img3": "https://i.ibb.co/QJ7DRjM/ovilashi1.jpg",
-        "serverSite": "https://github.com/fazlerabbytalukder/ovilashi-server-site/",
-        "ClientSite": "https://github.com/fazlerabbytalukder/ovilashi-client-site/",
-        "liveSite": "https://nish-website.web.app/",
+        "img1": "https://i.ibb.co/JvQMVTZ/Screenshot-484.jpg",
+        "img2": "https://i.ibb.co/rMyYH75/Screenshot-485.jpg",
+        "img3": "https://i.ibb.co/Jz18LJJ/Screenshot-486.jpg",
+        "serverSite": "https://github.com/fazlerabbytalukder/talukders-kitchen-server",
+        "ClientSite": "https://github.com/fazlerabbytalukder/talukders-kitchen-client-site",
+        "liveSite": "https://talukders-kitchen.web.app/",
         "description": "This is a product selling website whare you can only buy wooden ornaments. This is the very first website whare can only sell wooden products."
     },
     {
@@ -28,7 +28,7 @@
         "aboutProject3": "We can add new services and it will appear in the services section.",
         "aboutProject4": "You can delete any services as your perferencs.",
         "aboutProject5": "here you manage all services and delete those services",
-        "fullImg": "https://i.ibb.co/tzbd1fn/td-park-full-page.png",
+        "fullImg": "https://i.ibb.co/kSjSYYt/screencapture-talukders-kitchen-web-app-home-2022-04-13-12-23-04.png",
         "img1": "https://i.ibb.co/bmjhs9H/td3-2.jpg",
         "img2": "https://i.ibb.co/kh3tvBS/td3-1.jpg",
         "img3": "https://i.ibb.co/2FzSqDc/td3-3.jpg",
@@ -57,14 +57,3 @@
         "description": "This website mainly focused on date based booking system. Any user can book bus any date he wants.All types of busses you found here."
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
